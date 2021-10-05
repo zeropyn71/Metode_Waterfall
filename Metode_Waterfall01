@@ -1,0 +1,23 @@
+Waterfall adalah salah satu jenis-jenis MDPL.
+
+Waterfall adalah metode Siklus Hidup Klasik (Classic Life Cycle)
+-> yaitu, Suatu metode pendekatan yang sistematis dan berurutan pada pengembangan software.
+-- yang dimulai dengan kebutuhan pengguna dan lanjut ke tahapan perencanaan (planning),
+-- permodelan (modelling), kontruksi (contruction), serta penyerahan sistem (deployement).
+
+Kenapa disebut Waterfall ?
+-> Disebabkankan metode ini, tahap demi tahap harus selesai sehingga dapat melanjutkan ke tahap berikutnya dan berurutan.
+
+Waterfall Model :
+1. Requirement
+2. Design
+3. Implementasi
+4. Verification
+5. Maintenance
+
+Kelebihan :
+- Meminimalisasi Kesalahan dari tahap tahap yang ada
+- Dapat dicontrol
+
+Kekurangan :
+- Kesulitan merevisi dari tiap tahap karena banyak
